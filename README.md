@@ -42,3 +42,9 @@ To Do App:   http://localhost:3000/
 Keystone Admin UI:   http://localhost:3000/admin
 GraphQL Playground:  http://localhost:3000/admin/graphiql
 GraphQL API:         http://localhost:3000/admin/api
+
+- Stop database when done
+
+```
+./db-stop.sh
+```
