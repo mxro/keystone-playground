@@ -24,7 +24,7 @@ npm i
 
 - Run example
 
-On Windows (using [Cmdr](https://cmder.net/)
+On Windows (using [Cmdr](https://cmder.net/))
 
 ```
 bash start-win.sh
@@ -39,8 +39,11 @@ On Mac OS
 Now the example should be running:
 
 To Do App:   http://localhost:3000/
+
 Keystone Admin UI:   http://localhost:3000/admin
+
 GraphQL Playground:  http://localhost:3000/admin/graphiql
+
 GraphQL API:         http://localhost:3000/admin/api
 
 - Stop database when done
