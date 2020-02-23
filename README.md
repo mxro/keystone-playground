@@ -52,4 +52,4 @@ GraphQL API:         http://localhost:3000/admin/api
 ./db-stop.sh
 ```
 
-Also see the related [blog post](https://maxrohde.com/2020/02/23/keystonejs-5-quick-review/)
+Also see the related [blog post](https://maxrohde.com/2020/02/23/keystonejs-5-quick-review/).
